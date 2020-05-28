@@ -1,3 +1,6 @@
+'''Author - MD ELIOUS ALI MONDAL
+   Created - 28/5/2020'''
+
 #approximation via cubic splines
 from sined import xi
 from sined import yi
