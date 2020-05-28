@@ -1,5 +1,5 @@
 '''Author - MD ELIOUS ALI MONDAL
-   Created - 28/5/2020'''
+   Created - 28/5/2017'''
 
 #approximation via cubic splines
 from sined import xi
