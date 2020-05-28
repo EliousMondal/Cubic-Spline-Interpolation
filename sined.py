@@ -1,3 +1,6 @@
+'''Author - MD ELIOUS ALI MONDAL
+   Created - 28/5/2017'''
+
 import math
 
 xi = []
